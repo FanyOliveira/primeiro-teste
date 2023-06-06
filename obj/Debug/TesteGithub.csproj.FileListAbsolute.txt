@@ -1,0 +1,7 @@
+C:\Users\rafany.cojesus\source\repos\TesteGithub\TesteGithub\bin\Debug\TesteGithub.exe.config
+C:\Users\rafany.cojesus\source\repos\TesteGithub\TesteGithub\bin\Debug\TesteGithub.exe
+C:\Users\rafany.cojesus\source\repos\TesteGithub\TesteGithub\bin\Debug\TesteGithub.pdb
+C:\Users\rafany.cojesus\source\repos\TesteGithub\TesteGithub\obj\Debug\TesteGithub.csproj.AssemblyReference.cache
+C:\Users\rafany.cojesus\source\repos\TesteGithub\TesteGithub\obj\Debug\TesteGithub.csproj.CoreCompileInputs.cache
+C:\Users\rafany.cojesus\source\repos\TesteGithub\TesteGithub\obj\Debug\TesteGithub.exe
+C:\Users\rafany.cojesus\source\repos\TesteGithub\TesteGithub\obj\Debug\TesteGithub.pdb
